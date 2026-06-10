@@ -31,7 +31,7 @@ go run hello.go
 Here is the sequential path of my Go learning journey:
 
 - [x] `01-hello-world`
-- [ ] `02-variables`
+- [x] `02-variables`
 - [ ] `03-data-types`
 - [ ] `04-control-structures`
 - [ ] `05-functions`
