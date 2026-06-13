@@ -1,3 +1,21 @@
+// ============================================================
+// TOPIC: Data Types in Go
+// ============================================================
+// CONCEPTS COVERED:
+//  1. Boolean (bool)
+//  2. Signed integers: int8, int16, int32, int64, int
+//  3. Unsigned integers: uint8, uint16, uint32, uint64, uint
+//  4. Float types: float32, float64
+//  5. Complex types: complex64, complex128
+//  6. String type and raw string literals
+//  7. Byte (alias for uint8) – single ASCII character
+//  8. Rune (alias for int32) – single Unicode code point
+//  9. uintptr – integer large enough to hold a pointer value
+// 10. Type inference with :=
+// 11. Explicit type conversion (casting)
+// 12. Zero values – default values of each type
+// ============================================================
+
 package main
 
 import (
